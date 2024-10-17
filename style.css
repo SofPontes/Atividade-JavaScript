@@ -1,0 +1,9 @@
+.botao{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.botao{
+    width: 40vh;
+    height: auto;
+}
